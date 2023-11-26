@@ -1,0 +1,2 @@
+pyuic5 Main.ui -o main_ui.py
+pyrcc5 icon_file.qrc -o py_icons.py

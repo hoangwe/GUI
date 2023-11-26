@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icons8-cancel-48.png</file>
+    <file>icons8-double-down-48.png</file>
+    <file>icons8-double-up-48.png</file>
+    <file>icons8-home-page-48.png</file>
+    <file>icons8-play-48.png</file>
+    <file>icons8-power-off-button-48.png</file>
+    <file>icons8-robot-48.png</file>
+    <file>icons8-sort-down-48.png</file>
+    <file>icons8-sort-left-48.png</file>
+    <file>icons8-sort-up-48.png</file>
+  </qresource>
+</RCC>
